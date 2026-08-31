@@ -34,7 +34,9 @@ The project was designed to reduce repetitive manual sprint-report preparation b
 
 ## Demo
 
-A recorded workflow demonstration is included with this project.
+[Watch the Backend Workflow Demonstration](https://drive.google.com/file/d/12HSZCrV4hq3Bs4dneSZScZTwkxq3pg3r/view?usp=sharing)
+
+The recording shows the automation workflow and generated output.
 
 ## Notes
 
