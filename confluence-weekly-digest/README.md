@@ -45,7 +45,11 @@ The project was designed to reduce repetitive manual Confluence review by automa
 
 ## Demo
 
-A recorded workflow demonstration is available for this project.
+## Demo
+
+[Watch the Backend Workflow Demonstration](https://drive.google.com/file/d/13PdKZ1naCJcJy23faX65o_now7qdLYRE/view?usp=sharing)
+
+The recording shows the scheduled automation workflow and generated weekly digest.
 
 ## Notes
 
