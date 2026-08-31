@@ -48,7 +48,10 @@ The project was designed to reduce repetitive manual backlog review by automatic
 
 ## Demo
 
-A recorded workflow demonstration is available for this project.
+[Watch the Backend Workflow Demonstration](https://drive.google.com/file/d/1SWcp-1nWNx04iSmEdZHAWd3MuAc6Gbng/view?usp=sharing)
+
+The recording shows the scheduled Jira triage workflow and generated report.
+
 
 ## Notes
 
